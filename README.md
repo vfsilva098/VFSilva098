@@ -2,8 +2,9 @@
 
 **Desenvolvedor Sênior da SulAmerica**
 
-***HARD SKILLS:***
-  - ![JAVA](https://img.shields.io/badge/-java-333333?style=flat&logo=java&logoColor=007396) 
-  - <a href="https://spring.io/projects/spring-boot" alt="github" target="_blank" alt="SpringBoot">
-  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="20" height="20">
-  </a>
+**Contatos:**
+<a href="https://www.linkedin.com/in/<SEUNOMEDECONTATO>" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
