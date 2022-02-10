@@ -1,14 +1,15 @@
 # VICTOR FELIX DA SILVA
 
-**Desenvolvedor Sênior da SulAmerica**
+###Current position:
+**<i>Desenvolvedor Sênior da SulAmerica</i>**
 
-**Languages:**
+###Languages:
 
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="20" height="20"/> Português (Nativo)
 <br>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" width="20" height="20"/> Ingês     (Intermediário)
 
-**Hard Skills:**
+###Hard Skills:
 
 <a href="https://www.oracle.com/br/database/" alt="Oracle" target="_blank">
 
@@ -74,7 +75,7 @@
 
 </a>
 
-**Learning about:**
+###Learning about:
 <a href="https://pt-br.reactjs.org/" alt="Oracle" target="_blank">
 
 <img src="https://img.shields.io/badge/React-%230077B5.svg?&style=flat-square&logo=react&logoColor=0000F&color=000000">
@@ -91,7 +92,7 @@
 
 </a>
 
-**Contacts:**
+###Contacts:
 <a href="https://www.linkedin.com/in/victor-felix-513462110/" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
