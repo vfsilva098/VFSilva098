@@ -4,8 +4,9 @@
 
 **Languages:**
 
-    - Português (Nativo)
-    - Ingês     (Intermediário)
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" width="20" height="20"/> Português (Nativo)
+<br>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" width="20" height="20"/> Ingês     (Intermediário)
 
 **Hard Skills:**
 
