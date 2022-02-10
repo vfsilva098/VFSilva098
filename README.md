@@ -3,7 +3,7 @@
 **Desenvolvedor Sênior da SulAmerica**
 
 **Hard Skills:**
-<img src="https://img.shields.io/badge/dynamic/json?url=https://spring.io/projects/spring-boot&label=SpringBoot&color=green">
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=007396)
 
 **Contatos:**
 <a href="https://www.linkedin.com/in/victor-felix-513462110/" alt="linkedin" target="_blank">
