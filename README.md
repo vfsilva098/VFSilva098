@@ -3,7 +3,7 @@
 **Desenvolvedor Sênior da SulAmerica**
 
 **Hard Skills:**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FF0000)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=008000)
 
 **Contatos:**
