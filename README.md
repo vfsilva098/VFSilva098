@@ -3,8 +3,8 @@
 **Desenvolvedor Sênior da SulAmerica**
 
 **Hard Skills:**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=008000)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=FF0000)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FF0000)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=008000)
 
 **Contatos:**
 <a href="https://www.linkedin.com/in/victor-felix-513462110/" alt="linkedin" target="_blank">
