@@ -1,7 +1,7 @@
 # VICTOR FELIX DA SILVA
 
 ### Current position:
-**<i>Desenvolvedor Sênior da SulAmerica</i>**
+**<i>Senior Developer at SulAmerica</i>**
 
 ### Languages:
 
