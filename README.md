@@ -76,9 +76,9 @@
 </a>
 
 ### Learning about:
-<a href="https://nextjs.org/" alt="NextJs" target="_blank">
+<a href="https://docs.nestjs.com/" alt="NestJs" target="_blank">
 
-<img src="https://img.shields.io/badge/NextJs-%230077B5.svg?&style=flat-square&logo=nextjs&logoColor=0000F&color=000000">
+<img src="https://img.shields.io/badge/NestJs-%230077B5.svg?&style=flat-square&logo=nextjs&logoColor=0000F&color=000000">
 
 </a>
 <a href="https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1011454-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_512285710743-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General-KWID_43700062788251524-kwd-301173107504&utm_term=KW_google%20cloud%20platform-ST_Google%20Cloud%20Platform&gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO1dRwrcvMja8osNRLf5M6hxQ0WLfR0rZZJzur8vL1c4qUF44HeiR8QaAjbAEALw_wcB&gclsrc=aw.ds" alt="GoogleCloudPlatform" target="_blank">
